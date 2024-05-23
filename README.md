@@ -29,9 +29,7 @@
 </div>
 
 ## <b> Funcionalidad clonacion de contenedor</b>
-<div>
-    <img align="right" src="cap/logs.png" width="100"/>
-</div>
+<img align="right" src="cap/logs.png" width="300"/>
 
 ```JS
     var copy = document.querySelector(".logos-slide").cloneNode(true);
@@ -47,16 +45,4 @@
     ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
     ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 
-
-<div style="background-color:white; padding:10px; border:1px solid #ccc;">
-
-# Título del Contenedor
-
-Este es un ejemplo de contenido dentro de un contenedor con fondo blanco. 
-
-- Elemento de lista 1
-- Elemento de lista 2
-- Elemento de lista 3
-
-</div>
 
